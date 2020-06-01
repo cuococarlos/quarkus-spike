@@ -38,4 +38,6 @@ and database engine need to be changed.
 ```
 ./mvnw package -Pnative
 ```
-
+### Test with DB
+You need docker-compose  
+Run  ``` run.sh ```
